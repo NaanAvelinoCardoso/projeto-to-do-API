@@ -1,6 +1,6 @@
 # Projeto para praticar meus conhecimentos em API REST com node!!
 
-### Pré-requesitos globais(Caso já tenha esses Pré-requisitos instalados não instale denovo):
+### Pré-requesitos globais(Caso já tenha esses Pré-requisitos instalados não instale novamente):
 `npm i -g nodemon typescript ts-node`
 
 ### Instalação das Bibliotecas Necessárias
